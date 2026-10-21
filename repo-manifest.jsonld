@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/pandas-dev/pandas-msgpack/commit/51e9ef0ace8bc38630c9f3809b1909caba1d789d",
       "git:hexsha": "51e9ef0ace8bc38630c9f3809b1909caba1d789d",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-21T21:07:05.102617+00:00"
     },
     {
       "@id": "https://repolex.ai/r/pandas-dev/pandas-msgpack/commit/440671a99681cb9c450787cd3a58b6501305bb80",

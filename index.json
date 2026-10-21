@@ -1,0 +1,11 @@
+{
+  "org": "pandas-dev",
+  "repo": "pandas-msgpack",
+  "versions": [
+    {
+      "commit": "51e9ef0ace8bc38630c9f3809b1909caba1d789d",
+      "tag": "",
+      "parsed_at": "2026-10-21T21:07:05.152812+00:00"
+    }
+  ]
+}
